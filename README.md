@@ -1,3 +1,5 @@
+![Plantilla para un blog construida con componentes de diseño relacionados con el Material Design.](https://i.pinimg.com/564x/a7/ed/58/a7ed58b8e120968bb6d785c46cd2d025.jpg)
+
 # Template Blog Material Design 5
 Plantilla para un blog construida con componentes de diseño relacionados con el Material Design.
 
